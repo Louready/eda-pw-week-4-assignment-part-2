@@ -1,0 +1,69 @@
+title{
+  background-color: powderblue;
+  h1: color: red;
+}
+body {
+  background-color: background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #ffde70 100%);
+;
+  hi: color red;
+}
+header {
+  color: #D9A0C5;
+  text-align: center;
+  background-color: #5741A6;
+  border-radius: 50px;
+}
+.image {
+  border-color: background-color: #4158D0;
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #ffde70 100%);
+;
+    border-radius: 50px;
+    border-width: 2px;
+    border-style: dotted;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 1px;
+    margin-top: 5px;
+    margin-bottom: 1px;
+    border-top: 1px;
+    border-bottom: 10px;
+    display: flex;
+    justify-content: center;
+  }
+.img {
+  object-fit: cover;
+  margin: auto;
+}
+.transportation {
+  text-align: center;
+  background-color: #D9998B;
+  padding-top: 1px;
+  margin-top: 1px;
+  border-width: 10px;
+}
+h2 {
+  text-align: center;
+  border-width: 50px;
+  border-radius: 50px;
+  border-style: solid;
+
+
+}
+h2:hover {
+  background-color: yellow;
+}
+h3 {
+  text-align: center;
+  margin-bottom: 1px;
+}
+h5 {
+  text-align: center;
+  margin-top: 1px:
+}
+h6 {
+  text-align: center;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: 1px;
+}
